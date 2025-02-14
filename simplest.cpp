@@ -5,7 +5,7 @@ using namespace std;
 int main() {    
     int number;
 ## celowy blad do wykrycja przez chat powinno byc //
-    ## celowy blad2 do wykrycja przez chat powinno byc //
+    #### celowy blad2 do wykrycja przez chat powinno byc //
     cout << "Enter an integer: ";
     cin >> number;
 
