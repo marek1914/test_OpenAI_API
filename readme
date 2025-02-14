@@ -1,5 +1,17 @@
 GenAI Code Review
+Code Review with ChatGPT
 https://github.com/marketplace/actions/code-review-with-chatgpt
+ChatGPT as a reviewer
+https://github.com/marketplace/actions/chatgpt-as-a-reviewer
+OpenAI ChatGPT Code Review
+https://github.com/adshao/chatgpt-code-review-action
+ChatGPT Code Review
+https://github.com/domvwt/chatgpt-code-review
+GitHub action that adds ChatGPT code review comments to pull requests 
+https://github.com/marketplace/actions/chatgpt-code-reviewer
+https://www.reddit.com/r/softwaredevelopment/comments/13nvy6t/how_to_use_chatgpt_to_automatically_review_your/
+
+
 https://platform.openai.com/docs/api-reference/introduction
 https://platform.openai.com/settings/organization/api-keys
 Organization name
