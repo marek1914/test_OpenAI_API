@@ -11,6 +11,9 @@ GitHub action that adds ChatGPT code review comments to pull requests
 https://github.com/marketplace/actions/chatgpt-code-reviewer
 https://www.reddit.com/r/softwaredevelopment/comments/13nvy6t/how_to_use_chatgpt_to_automatically_review_your/
 
+https://github.com/settings/tokens/new
+https://docs.github.com/en/apps/oauth-apps/building-oauth-apps/scopes-for-oauth-apps
+
 
 https://platform.openai.com/docs/api-reference/introduction
 https://platform.openai.com/settings/organization/api-keys
@@ -18,3 +21,6 @@ Organization name
 Marek1914AI
 API
 Marek1914AI_API
+
+https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository
+
