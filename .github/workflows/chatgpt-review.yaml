@@ -1,0 +1,21 @@
+on:
+  pull_request:
+    types: [opened, synchronize]
+    
+jobs:
+    review-1:
+        runs-on: ubuntu-latest
+        name: ChatGPT Cirolini Code Review
+        steps:
+        - name: ChatGPT Cirolini Code Review
+          uses: cirolini/chatgpt-github-actions@v1.3
+          with:
+            openai_api_key: ${{ secrets.openai_api_key }}
+            github_token: ${{ secrets.GITHUB_TOKEN }}
+            github_pr_id: ${{ github.event.number }}
+            openai_engine: "gpt-3.5-turbo-1106"
+            openai_temperature: 0.5
+            openai_max_tokens: 2048
+            mode: patch
+            language: en # optional, default is 'en'
+            custom_prompt: "" # optional
