@@ -17,5 +17,4 @@ jobs:
             openai_temperature: 0.5
             openai_max_tokens: 2048
             mode: patch
-            language: en # optional, default is 'en'
-            custom_prompt: "" # optional
+
